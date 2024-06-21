@@ -1,4 +1,4 @@
-## LLM4BeSci_StGalen2024
+## LLM4BeSci_Bern2024
 
 The course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral.
 
@@ -46,6 +46,6 @@ drive.mount("/content/drive")
 4. Create a second cell in your notebook using the "+ Code" button that appears when you hover your cursor right under the first cell. Copy and run the following code snippet in the second cell of your notebook to clone the GitHub repository to your Google Drive :
 ```
 %cd /content/drive/MyDrive
-!git clone https://github.com/Zak-Hussain/LLM4BeSci_StGalen2024.git
+!git clone https://github.com/Zak-Hussain/LLM4BeSci_Bern2024.git
 ```
 5. Go back to your Google Drive and navigate to the folder "LLM4BeSci_StGalen2024". You should see the relevant notebooks (.ipynb files) and data (it may take  a couple of minutes for the files to appear).
