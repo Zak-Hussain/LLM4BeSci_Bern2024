@@ -6,12 +6,11 @@ By [Zak Hussain](https://zak-hussain.github.io/), [Rui Mata](https://matarui.org
 
 ### Schedule
 
-10:00 AM - 10:15 AM: Talk: Intro to LLMs <br>
-10:15 AM - 10:30 AM: Break <br>
-10:30 AM - 11:00 AM: Talk: A gentle to Python and Hugging Face <br>
-11:00 AM - 11:45 AM: Exercises in Google Colab <br>
-11:45 AM - 12:00 PM: Break <br>
-12:00 PM- 12:30 PM: Exercise Walkthrough <br>
+10:00 AM - 10:45 AM: Talk: Intro to LLMs <br>
+10:45 AM - 11:00 AM: Break <br>
+11:00 AM - 11:20 AM: Talk: A gentle to Python and Hugging Face <br>
+11:20 AM - 12:00 AM: Exercises in Google Colab <br>
+12:00 PM- 12:30 PM: Exercise Walkthrough and Q&A <br>
 
 ### Additional Resources
 <a href="https://osf.io/preprints/psyarxiv/f7stn">Hussain, Binz, Mata, & Wulff (2024) A tutorial on open-source large language models for behavioral science
