@@ -47,4 +47,12 @@ drive.mount("/content/drive")
 %cd /content/drive/MyDrive
 !git clone https://github.com/Zak-Hussain/LLM4BeSci_Bern2024.git
 ```
-5. Go back to your Google Drive and navigate to the folder "LLM4BeSci_StGalen2024". You should see the relevant notebooks (.ipynb files) and data (it may take  a couple of minutes for the files to appear).
+5. Go back to your Google Drive and navigate to the folder "LLM4BeSci_StGalen2024". You should see the relevant notebook (`exercises.ipynb`) and data files (it may take  a couple of minutes for the files to appear).
+
+#### Hugging Face API Setup Instructions
+The following steps are required to access the Llama-3 model via the Hugging Face API, which we will use in the workshop.
+
+6. Make sure you have a Hugging Face account (https://huggingface.co/join)
+7. Go to the [Llama-3 model page](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) and fill in the 'META LLAMA 3 COMMUNITY LICENSE AGREEMENT' form at the top of the page in order to get access to the model (this can take up to an hour). 
+8. Once you have been granted access, you can navigate to [in your Hugging Face profile settings](https://huggingface.co/settings/tokens) to get the model's API access token. This token should provide access to all models in the Llama family. 
+9. If you wish to run the largest (70B parameter) version of Llama-3, you will need to have a Hugging Face PRO subscription (currently $9/month). You can also run the smaller versions (as in this notebook) for free.
